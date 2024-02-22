@@ -1,0 +1,29 @@
+_repo: Rube-Burrow-king-of-outlaws-and-his-band-of-train-robbers-b-An-accurate-and-faithful-history-__73001
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Agee, George W.
+    gutenberg_agent_id: '56903'
+    url: http://www.gutenberg.org/2009/agents/56903
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73001'
+language: en
+pgterms:marc904: https://archive.org/details/rubeburrowkingof00ageeiala
+pgterms:marc905: 20200227135859agee
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aChicago :$bThe Henneberry Company, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rube Burrow, king of outlaws, and his band of train robbers : $b An accurate
+  and faithful history of their exploits and adventures'
+url: http://www.gutenberg.org/ebooks/73001
